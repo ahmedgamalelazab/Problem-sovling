@@ -1,0 +1,12 @@
+D:\jimmy Coding Projects\jimmy problem solving\HumanReadableDauration\bin\Debug\net6.0\HumanReadableDauration.deps.json
+D:\jimmy Coding Projects\jimmy problem solving\HumanReadableDauration\bin\Debug\net6.0\HumanReadableDauration.dll
+D:\jimmy Coding Projects\jimmy problem solving\HumanReadableDauration\bin\Debug\net6.0\HumanReadableDauration.pdb
+D:\jimmy Coding Projects\jimmy problem solving\HumanReadableDauration\obj\Debug\net6.0\HumanReadableDauration.csproj.AssemblyReference.cache
+D:\jimmy Coding Projects\jimmy problem solving\HumanReadableDauration\obj\Debug\net6.0\HumanReadableDauration.GeneratedMSBuildEditorConfig.editorconfig
+D:\jimmy Coding Projects\jimmy problem solving\HumanReadableDauration\obj\Debug\net6.0\HumanReadableDauration.AssemblyInfoInputs.cache
+D:\jimmy Coding Projects\jimmy problem solving\HumanReadableDauration\obj\Debug\net6.0\HumanReadableDauration.AssemblyInfo.cs
+D:\jimmy Coding Projects\jimmy problem solving\HumanReadableDauration\obj\Debug\net6.0\HumanReadableDauration.csproj.CoreCompileInputs.cache
+D:\jimmy Coding Projects\jimmy problem solving\HumanReadableDauration\obj\Debug\net6.0\HumanReadableDauration.dll
+D:\jimmy Coding Projects\jimmy problem solving\HumanReadableDauration\obj\Debug\net6.0\refint\HumanReadableDauration.dll
+D:\jimmy Coding Projects\jimmy problem solving\HumanReadableDauration\obj\Debug\net6.0\HumanReadableDauration.pdb
+D:\jimmy Coding Projects\jimmy problem solving\HumanReadableDauration\obj\Debug\net6.0\ref\HumanReadableDauration.dll
