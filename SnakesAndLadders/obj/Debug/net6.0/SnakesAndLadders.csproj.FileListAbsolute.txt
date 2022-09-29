@@ -1,0 +1,12 @@
+C:\Users\jimmy\Desktop\Problem solving\Problem-sovling\SnakesAndLadders\bin\Debug\net6.0\SnakesAndLadders.deps.json
+C:\Users\jimmy\Desktop\Problem solving\Problem-sovling\SnakesAndLadders\bin\Debug\net6.0\SnakesAndLadders.dll
+C:\Users\jimmy\Desktop\Problem solving\Problem-sovling\SnakesAndLadders\bin\Debug\net6.0\SnakesAndLadders.pdb
+C:\Users\jimmy\Desktop\Problem solving\Problem-sovling\SnakesAndLadders\obj\Debug\net6.0\SnakesAndLadders.csproj.AssemblyReference.cache
+C:\Users\jimmy\Desktop\Problem solving\Problem-sovling\SnakesAndLadders\obj\Debug\net6.0\SnakesAndLadders.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jimmy\Desktop\Problem solving\Problem-sovling\SnakesAndLadders\obj\Debug\net6.0\SnakesAndLadders.AssemblyInfoInputs.cache
+C:\Users\jimmy\Desktop\Problem solving\Problem-sovling\SnakesAndLadders\obj\Debug\net6.0\SnakesAndLadders.AssemblyInfo.cs
+C:\Users\jimmy\Desktop\Problem solving\Problem-sovling\SnakesAndLadders\obj\Debug\net6.0\SnakesAndLadders.csproj.CoreCompileInputs.cache
+C:\Users\jimmy\Desktop\Problem solving\Problem-sovling\SnakesAndLadders\obj\Debug\net6.0\SnakesAndLadders.dll
+C:\Users\jimmy\Desktop\Problem solving\Problem-sovling\SnakesAndLadders\obj\Debug\net6.0\refint\SnakesAndLadders.dll
+C:\Users\jimmy\Desktop\Problem solving\Problem-sovling\SnakesAndLadders\obj\Debug\net6.0\SnakesAndLadders.pdb
+C:\Users\jimmy\Desktop\Problem solving\Problem-sovling\SnakesAndLadders\obj\Debug\net6.0\ref\SnakesAndLadders.dll
