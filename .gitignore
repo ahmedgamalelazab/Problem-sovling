@@ -3,3 +3,4 @@ bin/
 ProblemSolving/
 App/
 *.sln
+obj/
