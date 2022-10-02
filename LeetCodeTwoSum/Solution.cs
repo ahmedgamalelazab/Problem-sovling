@@ -38,7 +38,6 @@ namespace LeetCodeTwoSum
                     if (numsDic[expectedFound][1] != 0)
                     {
                         return new int[] { numsDic[expectedFound][0], numsDic[expectedFound][1] };
-                        //do nothing 
                     }
                     else if (numsDic[expectedFound][0] != i)
                     {
