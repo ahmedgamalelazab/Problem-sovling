@@ -16,65 +16,41 @@ public class Solution
     public ListNode MergeTwoLists(ListNode list1, ListNode list2)
     {
 
-        //check for nulls
-        if (list1 == null && list2 == null)
-        {
-            return null;
-        }
-        if (list1 == null)
-        {
-            return list2;
-        }
-        else if (list2 == null)
-        {
-            return list1;
-        }
-        else
+        ListNode head = new ListNode(-1);
+        ListNode p = head;
+
+        while (list1 != null && list2 != null)
         {
 
-            var p1 = new ListNode(0, list1);
-            var p2 = new ListNode(0, list2);
-
-            while (p1.next != null && p2.next != null)
+            if (list1.val < list2.val)
             {
-                if (p1.next.val <= p2.next.val)
-                {
-                    var p1Temp = p1.next.next;
-                    var p2Temp = p2.next.next;
-                    p2.next.next = p1.next.next;
-                    p1.next.next = p2.next;
-                    p1.next = p1Temp;
-                    p2.next = p2Temp;
-                }
-                else
-                {
-                    var p1Temp = p1.next.next;
-                    var p2Temp = p2.next.next;
-                    p2.next.next = p1.next;
-                    var pFix = new ListNode(0, list1);
-                    if (pFix.next.next == null)
-                    {
-                        list1 = p2.next;
-                        p1 = new ListNode(0, list1);
-                        p1Temp = p1.next;
-                    }
-                    else
-                    {
-                        while (pFix.next.next != p1.next)
-                        {
-                            pFix = pFix.next;
-                        }
-                        pFix.next.next = p2.next;
+                p.next = new ListNode(list1.val);
+                list1 = list1.next;
+                p = p.next;
 
-                    }
-                    p1.next = p1Temp;
-                    p2.next = p2Temp;
-                }
+            }
+            else
+            {
+                p.next = new ListNode(list2.val); ;
+                list2 = list2.next;
+                p = p.next;
             }
 
-            return list1;
-
         }
 
+        if (list1 != null || list2 != null)
+        {
+            if (list1 != null)
+            {
+                p.next = list1;
+            }
+            else
+            {
+                p.next = list2;
+            }
+        }
+
+
+        return head.next;
     }
 }
